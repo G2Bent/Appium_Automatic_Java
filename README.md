@@ -1,0 +1,2 @@
+# Appium_Automatic_Java
+使用PO设计模式编写Android自动化框架，将数据与测试用例分离
