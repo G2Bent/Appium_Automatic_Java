@@ -9,7 +9,7 @@ import java.io.IOException;
 
 public class LoginPageTest extends BaseSetup {
 
-    @Test(description = "测试登录功能")
+    @Test(description = "测试登录失败")
     public void TestLogin() throws IOException {
         LoginPage loginPage = new LoginPage(getDriver());
         loginPage.login();
